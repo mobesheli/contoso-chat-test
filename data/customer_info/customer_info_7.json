@@ -2,11 +2,11 @@
   "id": "7",
   "firstName": "Mohsen",
   "lastName": "Amiribesheli",
-  "age": 50,
+  "age": 35,
   "email": "jasonbrown@example.com",
   "phone": "555-222-3333",
   "address": "456 Cedar Rd, Anytown USA, 12345",
-  "membership": "Base",
+  "membership": "Gold",
   "orders": [
     {
       "id": 36,
@@ -42,6 +42,18 @@
       "unitprice": 100.0,
       "category": "Sleeping Bags",
       "brand": "CozyNights",
+      "description": "Embrace the great outdoors in any season with the lightweight CozyNights Sleeping Bag! This durable three-season bag is superbly designed to give hikers, campers, and backpackers comfort and warmth during spring, summer, and fall. With a compact design that folds down into a convenient stuff sack, you can whisk it away on any adventure without a hitch. The sleeping bag takes comfort seriously, featuring a handy hood, ample room and padding, and a reliable temperature rating. Crafted from high-quality polyester, it ensures long-lasting use and can even be zipped together with another bag for shared comfort. Whether you're gazing at stars or catching a quick nap between trails, the CozyNights Sleeping Bag makes it a treat. Don't just sleep\u2014 dream with CozyNights."
+    },
+    {
+      "id": 60,
+      "productId": 21,
+      "quantity": 50,
+      "total": 200.0,
+      "date": "3/10/2024",
+      "name": "Car",
+      "unitprice": 100.0,
+      "category": "SUVs",
+      "brand": "Auto",
       "description": "Embrace the great outdoors in any season with the lightweight CozyNights Sleeping Bag! This durable three-season bag is superbly designed to give hikers, campers, and backpackers comfort and warmth during spring, summer, and fall. With a compact design that folds down into a convenient stuff sack, you can whisk it away on any adventure without a hitch. The sleeping bag takes comfort seriously, featuring a handy hood, ample room and padding, and a reliable temperature rating. Crafted from high-quality polyester, it ensures long-lasting use and can even be zipped together with another bag for shared comfort. Whether you're gazing at stars or catching a quick nap between trails, the CozyNights Sleeping Bag makes it a treat. Don't just sleep\u2014 dream with CozyNights."
     }
   ]
